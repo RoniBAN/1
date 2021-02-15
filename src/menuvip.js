@@ -1,4 +1,4 @@
-const menu = (prefix) => {
+const menuvip = (prefix) => {
 	return `
 	✎Dono:✞۝ঔৣ𝘽𝙖𝙣✞ O BRABO
 
